@@ -1,3 +1,6 @@
+## Tag-Go
+This is a web2 project about AI logo generation which is needed by micro and small businesses to create their UMKM logos.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
